@@ -1,5 +1,5 @@
 {
-  "posts_post": [
+  "posts_post": 
     {
       "result": "1",
       "error_info": {
@@ -7,8 +7,8 @@
         "error_message": "エラーテストです"
       }
     }
-  ],
-  "posts": [
+  ,
+  "posts": 
     {
       "result": "1",
       "error_info": {
@@ -16,5 +16,4 @@
         "error_message": "エラーテストです"
       }
     }
-  ]
 }
