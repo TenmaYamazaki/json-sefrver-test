@@ -1,0 +1,12 @@
+{
+  "posts_post": [
+    {
+      "id": 0,
+      "result": "1",
+      "error_info": {
+        "error_code": "ERROR_TEST",
+        "error_message": "エラーテストです"
+      }
+    }
+  ]
+}
