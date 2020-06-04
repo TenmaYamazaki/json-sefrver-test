@@ -1,7 +1,6 @@
 {
   "posts_post": [
     {
-      "id": 0,
       "result": "1",
       "error_info": {
         "error_code": "ERROR_TEST",
@@ -11,7 +10,6 @@
   ],
   "posts": [
     {
-      "id": 0,
       "result": "1",
       "error_info": {
         "error_code": "ERROR_TEST",
